@@ -1,0 +1,86 @@
+﻿@using DoAn_ShopGiay.Models
+@model List<Giohang>
+@{
+    ViewBag.Title = "Giỏ Hàng";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+
+<h1 style="text-align: center; color: blue; font-weight: bold; font-size: 25px; ">THÔNG TIN GIỎ HÀNG</h1>
+<hr />
+<p style="font-weight: bold; color:red; font-size: 20px; text-align:center; "><strong>@TempData["Tag"]</strong></p>
+<table>
+    <tr style="font-weight: bold; padding:10px">
+        <th style="border: 1px #000000 solid; text-align: center; padding: 10px; font-size: 16px; width: 5%; ">
+            Mã Giày
+        </th>
+        <th style="border: 1px #000000 solid; text-align: center; padding: 10px; font-size: 16px; width: 18%;">
+            Tên Giày
+        </th>
+        <th style="border: 1px #000000 solid; text-align: center; padding: 10px; font-size: 16px; width: 13%;">
+            Hình Ảnh
+        </th>
+        <th style="border: 1px #000000 solid; text-align: center; padding: 10px; font-size: 16px; width: 7%;">
+            Size
+        </th>
+        <th style="border: 1px #000000 solid; text-align: center; padding: 10px; font-size: 16px; width: 9%; ">
+            Số Lượng
+        </th>
+        <th style="border: 1px #000000 solid; text-align: center; padding: 10px; font-size: 16px; width: 9%; ">
+            Đơn Giá
+        </th>
+        <th style="border: 1px #000000 solid; text-align: center; padding: 10px; font-size: 16px; width: 9%; ">
+            Thành Tiền
+        </th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 13px; ">
+                @Html.DisplayFor(modelItem => item.iMaGIAY)
+            </td>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 13px; padding-bottom: 50px;">
+                @Html.DisplayFor(modelItem => item.sTenGIAY)
+            </td>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 13px; ">
+                <img src="@Url.Content("~/Hinhsanpham/"+ item.sAnhbia)" style="width:110px; height: 110px;" />
+            </td>
+
+            @using (Html.BeginForm("CapnhatGiohang", "Giohang", new { @iMaSP = item.iMaGIAY, @iMaS = item.iMaSize }))
+            {
+                <td style="border: 1px #000000 solid; text-align: center; font-size: 13px; ">
+                    @Html.DisplayFor(modelItem => item.iSize)
+                </td>
+                <td style="border: 1px #000000 solid; text-align: center; font-size: 13px;">
+                    <input type="number" min="1" name="txtSoluong" value="@item.iSoluong" style="background-color: white; width: 50px;" />
+                </td>
+                <td style="border: 1px #000000 solid; text-align: center; font-size: 13px; ">@String.Format("{0:0,0}", item.dDongia)</td>
+                <td style="border: 1px #000000 solid; text-align: center; font-size: 13px; ">@String.Format("{0:0,0}", item.dThanhtien)</td>
+                <td style="border: 1px #000000 solid; text-align: center; font-size: 13px; "> <a href="@Url.Action("Details","ShopGiay", new { id = item.iMaGIAY })">Chi Tiết</a></td>
+                <td style="border: 1px #000000 solid; text-align: center; font-size: 13px; "> @Html.ActionLink("Xóa Khỏi Giỏ", "XoaGiohang", new { @iMaSp = item.iMaGIAY })</td>
+                <td style="border: 1px #000000 solid; text-align: center; font-size: 13px; "><input type="submit" value="Cập Nhật" id="capnhat" /></td>
+            }
+        </tr>
+    }
+    <tr style="font-weight:bold; text-align:right; color:red">
+        <td colspan="5" style="border: 1px #000000 solid; text-align: right; font-size: 17px; font-weight: bold; padding:10px; ">Tổng số lượng: @ViewBag.Tongsoluong</td>
+        <td colspan="5" style="border: 1px #000000 solid; text-align: left; font-size: 17px; font-weight: bold; padding: 10px; ">Tổng tiền: @String.Format("{0:0,0}", ViewBag.Tongtien) VNĐ</td>
+    </tr>
+    <tr>
+        <br />
+        <td colspan="10" style="font-weight:bold; color:blue; text-align:right;padding:10px; border: 1px black solid;">
+            @Html.ActionLink("Xóa tất cả trong giỏ", "XoaTatcaGiohang")
+        </td>
+        <br />
+    </tr>
+    <tr style="font-weight:bold; text-align:center; border: 1px black solid; font-size: 20px;">
+        <td colspan="10" style="padding: 20px;">
+            @Html.ActionLink("Đặt Hàng", "Dathang", "Giohang")
+        </td>
+    </tr>
+</table>
+

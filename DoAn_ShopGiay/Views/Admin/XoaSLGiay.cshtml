@@ -1,0 +1,49 @@
+﻿@model DoAn_ShopGiay.Models.CHITIETGIAY
+
+@{
+    ViewBag.Title = "XoaSLGiay";
+    Layout = "~/Views/Shared/_layoutAdmin.cshtml";
+}
+
+<h3 style="text-align: center; font-weight: bold; color: blue">XÁC NHẬN THÔNG TIN CẦN XÓA</h3>
+<hr />
+<h3 style="color:red; text-align:center; ">Bạn có chắc chắn muốn xóa ?</h3>
+<br />
+<br />
+<div>
+    <dl class="dl-horizontal" style="font-size: 18px; margin-left: 280px;">
+        <dt>
+            Mã Giày:   
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.MaGIAY)
+        </dd>
+        <br />
+        <dt>
+            Mã Size:  
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.MaSize)
+        </dd>
+        <br />
+        <dt>
+            Số Lượng Tồn:  
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.SoLuongTon)
+        </dd>
+        <br />
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+<div class="form-actions no-color" style="font-size: 18px; margin-left: 450px;">
+    <input type="submit" value="Xóa" class="btn btn-default" />   |   
+    @Html.ActionLink("TRỞ VỀ", "NhapSLGiay")
+
+</div>
+    }
+</div>

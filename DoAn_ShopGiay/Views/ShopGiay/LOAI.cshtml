@@ -1,0 +1,9 @@
+﻿
+
+
+@model IEnumerable<DoAn_ShopGiay.Models.LOAI>
+
+    @foreach (var loai in Model)
+    {
+        <li><a href="@Url.Action("SPTheoLOAI","ShopGiay", new { id = loai.MaLOAI})">@loai.TenLOAI</a></li>
+    }

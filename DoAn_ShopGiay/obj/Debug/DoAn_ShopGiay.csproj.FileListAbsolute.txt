@@ -1,0 +1,580 @@
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\DoAn_ShopGiay.dll.config
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\DoAn_ShopGiay.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\DoAn_ShopGiay.pdb
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csc.exe
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csc.exe.config
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csc.rsp
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csi.exe
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csi.exe.config
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csi.rsp
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.AppContext.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Collections.Immutable.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Console.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Globalization.Calendars.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.IO.Compression.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.IO.FileSystem.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Net.Http.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Net.Sockets.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Reflection.Metadata.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.ValueTuple.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Xml.XPath.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\vbc.exe
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\vbc.exe.config
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\vbc.rsp
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\VBCSCompiler.exe
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\VBCSCompiler.exe.config
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\Antlr3.Runtime.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\Microsoft.Web.Infrastructure.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\Newtonsoft.Json.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\PagedList.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\PagedList.Mvc.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Helpers.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Mvc.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Optimization.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Razor.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.Deployment.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.Razor.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\WebGrease.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\PagedList.xml
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\PagedList.Mvc.xml
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Helpers.xml
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Mvc.xml
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Optimization.xml
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Razor.xml
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.xml
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.Deployment.xml
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.Razor.xml
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\Newtonsoft.Json.xml
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\Antlr3.Runtime.pdb
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\obj\Debug\DoAn_ShopGiay.csproj.CoreCompileInputs.cache
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\obj\Debug\DoAn_ShopGiay.csproj.CopyComplete
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\obj\Debug\DoAn_ShopGiay.dll
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\obj\Debug\DoAn_ShopGiay.pdb
+D:\Lập Trình Web\DO_AN_Web\DoAn_ShopGiay\DoAn_ShopGiay\obj\Debug\DoAn_ShopGiay.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\DoAn_ShopGiay.dll.config
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\DoAn_ShopGiay.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\DoAn_ShopGiay.pdb
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\PagedList.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\WebGrease.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\PagedList.xml
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\obj\Debug\DoAn_ShopGiay.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\obj\Debug\DoAn_ShopGiay.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\obj\Debug\DoAn_ShopGiay.csproj.CopyComplete
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\obj\Debug\DoAn_ShopGiay.dll
+C:\Users\Admin\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\obj\Debug\DoAn_ShopGiay.pdb
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\DoAn_ShopGiay.dll.config
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\DoAn_ShopGiay.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\DoAn_ShopGiay.pdb
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csc.exe
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csc.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csc.rsp
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csi.exe
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csi.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csi.rsp
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.AppContext.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Console.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.IO.Compression.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Net.Http.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.ValueTuple.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\vbc.exe
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\vbc.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\vbc.rsp
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\Antlr3.Runtime.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\PagedList.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\PagedList.Mvc.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Optimization.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Razor.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\WebGrease.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\PagedList.xml
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\PagedList.Mvc.xml
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Optimization.xml
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Razor.xml
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.xml
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\Antlr3.Runtime.pdb
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\obj\Debug\DoAn_ShopGiay.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\obj\Debug\DoAn_ShopGiay.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\obj\Debug\DoAn_ShopGiay.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\obj\Debug\DoAn_ShopGiay.dll
+C:\Users\ADMIN\OneDrive\Desktop\3TTH_WebsiteBanGiay\DoAn_ShopGiay\DoAn_ShopGiay\obj\Debug\DoAn_ShopGiay.pdb
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\DoAn_ShopGiay.dll.config
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\DoAn_ShopGiay.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\DoAn_ShopGiay.pdb
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csc.exe
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csc.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csc.rsp
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csi.exe
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csi.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csi.rsp
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.AppContext.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Console.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.IO.Compression.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Net.Http.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.ValueTuple.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\vbc.exe
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\vbc.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\vbc.rsp
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\Antlr3.Runtime.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\PagedList.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\PagedList.Mvc.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Optimization.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Razor.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\WebGrease.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\PagedList.xml
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\PagedList.Mvc.xml
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Optimization.xml
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Razor.xml
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.xml
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\Antlr3.Runtime.pdb
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\obj\Debug\DoAn_ShopGiay.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\obj\Debug\DoAn_ShopGiay.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\obj\Debug\DoAn_ShopGiay.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\obj\Debug\DoAn_ShopGiay.dll
+C:\Users\ADMIN\OneDrive\Desktop\DoAn_ShopGiay\DoAn_ShopGiay\DoAn_ShopGiay\obj\Debug\DoAn_ShopGiay.pdb
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\DoAn_ShopGiay.dll.config
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\DoAn_ShopGiay.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\DoAn_ShopGiay.pdb
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csc.exe
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csc.exe.config
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csc.rsp
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csi.exe
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csi.exe.config
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csi.rsp
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.AppContext.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Collections.Immutable.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Console.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Globalization.Calendars.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.IO.Compression.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.IO.FileSystem.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Net.Http.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Net.Sockets.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Reflection.Metadata.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.ValueTuple.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Xml.XPath.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\vbc.exe
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\vbc.exe.config
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\vbc.rsp
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\VBCSCompiler.exe
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\VBCSCompiler.exe.config
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\Antlr3.Runtime.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\Microsoft.Web.Infrastructure.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\Newtonsoft.Json.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\PagedList.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\PagedList.Mvc.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Helpers.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Mvc.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Optimization.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Razor.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.Deployment.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.Razor.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\WebGrease.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\PagedList.xml
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\PagedList.Mvc.xml
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Helpers.xml
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Mvc.xml
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Optimization.xml
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Razor.xml
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.xml
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.Deployment.xml
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.Razor.xml
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\Newtonsoft.Json.xml
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\Antlr3.Runtime.pdb
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\obj\Debug\DoAn_ShopGiay.csproj.AssemblyReference.cache
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\obj\Debug\DoAn_ShopGiay.csproj.CoreCompileInputs.cache
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\obj\Debug\DoAn_ShopGiay.dll
+D:\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\obj\Debug\DoAn_ShopGiay.pdb
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\obj\Debug\DoAn_ShopGiay.csproj.AssemblyReference.cache
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\obj\Debug\DoAn_ShopGiay.csproj.CoreCompileInputs.cache
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\obj\Debug\DoAn_ShopGiay.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\obj\Debug\DoAn_ShopGiay.pdb
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\DoAn_ShopGiay.dll.config
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\DoAn_ShopGiay.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\DoAn_ShopGiay.pdb
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csc.exe
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csc.exe.config
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csc.rsp
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csi.exe
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csi.exe.config
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csi.rsp
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.AppContext.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Collections.Immutable.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Console.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Globalization.Calendars.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.IO.Compression.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.IO.FileSystem.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Net.Http.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Net.Sockets.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Reflection.Metadata.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.ValueTuple.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Xml.XPath.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\vbc.exe
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\vbc.exe.config
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\vbc.rsp
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\VBCSCompiler.exe
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\VBCSCompiler.exe.config
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\Antlr3.Runtime.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\Microsoft.Web.Infrastructure.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\Newtonsoft.Json.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\PagedList.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\PagedList.Mvc.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Helpers.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Mvc.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Optimization.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Razor.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.Deployment.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.Razor.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\WebGrease.dll
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\PagedList.xml
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\PagedList.Mvc.xml
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Helpers.xml
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Mvc.xml
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Optimization.xml
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Razor.xml
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.xml
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.Deployment.xml
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.Razor.xml
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\Newtonsoft.Json.xml
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\Antlr3.Runtime.pdb
+D:\DACS\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\DoAn_ShopGiay.dll.config
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\DoAn_ShopGiay.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\DoAn_ShopGiay.pdb
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csc.exe
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csc.exe.config
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csc.rsp
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csi.exe
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csi.exe.config
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\csi.rsp
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.AppContext.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Collections.Immutable.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Console.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Globalization.Calendars.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.IO.Compression.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.IO.FileSystem.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Net.Http.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Net.Sockets.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Reflection.Metadata.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.ValueTuple.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Xml.XPath.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\vbc.exe
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\vbc.exe.config
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\vbc.rsp
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\VBCSCompiler.exe
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\roslyn\VBCSCompiler.exe.config
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\Antlr3.Runtime.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\Microsoft.Web.Infrastructure.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\Newtonsoft.Json.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\PagedList.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\PagedList.Mvc.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Helpers.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Mvc.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Optimization.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Razor.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.Deployment.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.Razor.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\WebGrease.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\PagedList.xml
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\PagedList.Mvc.xml
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Helpers.xml
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Mvc.xml
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Optimization.xml
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.Razor.xml
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.xml
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.Deployment.xml
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\System.Web.WebPages.Razor.xml
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\Newtonsoft.Json.xml
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\Antlr3.Runtime.pdb
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\obj\Debug\DoAn_ShopGiay.csproj.AssemblyReference.cache
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\obj\Debug\DoAn_ShopGiay.csproj.CoreCompileInputs.cache
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\obj\Debug\DoAn_ShopGiay.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\obj\Debug\DoAn_ShopGiay.pdb
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\Commmon.dll
+D:\DoAnCoSo\DOAN_COSO\DoAn_Web\DoAn_Web\DoAn_ShopGiay\DoAn_ShopGiay\bin\Commmon.pdb

@@ -1,0 +1,74 @@
+﻿@using DoAn_ShopGiay.Models
+@using PagedList.Mvc
+@model PagedList.PagedList<DoAn_ShopGiay.Models.DONDATHANG>
+
+@{
+    ViewBag.Title = "Đơn Đặt Hàng";
+    Layout = "~/Views/Shared/_layoutAdmin.cshtml";
+}
+<br />
+<h2 style="text-align:center; color: blue; font-weight: bold;  ">Đơn Đặt Hàng</h2>
+<hr />
+<div style="display: inline-flex; padding: 10px; font-weight: bold; font-size: 17px;">
+    <div style="margin-right: 30px;">
+        @Html.ActionLink("Chi Tiết Đơn Hàng", "Chitietdonhang")
+    </div>
+</div>
+<table>
+    <tr>
+        <th style="border: 1px #000000 solid; text-align: center; font-size: 16px; width: 10%; ">
+            Mã Đơn Hàng
+        </th>
+        <th style="border: 1px #000000 solid; text-align: center; font-size: 16px; width: 10%; ">
+            Mã Khách Hàng
+        </th>
+
+        <th style="border: 1px #000000 solid; text-align: center; font-size: 16px; width: 10%; ">
+            Đã Thanh Toán
+        </th>
+        <th style="border: 1px #000000 solid; text-align: center; font-size: 16px; width: 10%; ">
+            Tình Trạng Giao Hàng
+        </th>
+        <th style="border: 1px #000000 solid; text-align: center; font-size: 16px; width: 10%; ">
+            Ngày Đặt
+        </th>
+        <th style="border: 1px #000000 solid; text-align: center; font-size: 16px; width: 10%; ">
+            Tổng tiền
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td style="border: 1px #000000 solid; text-align: right; font-size: 16px; padding-right: 80px; ">
+        @Html.DisplayFor(modelItem => item.MaDonHang)
+    </td>
+    <td style="border: 1px #000000 solid; text-align: right; font-size: 16px; padding-right: 80px; ">
+        @Html.DisplayFor(modelItem => item.MaKH)
+    </td>
+
+    <td style="border: 1px #000000 solid; text-align: right; font-size: 16px; padding-right: 80px; ">
+        @Html.DisplayFor(modelItem => item.Dathanhtoan)
+    </td>
+    <td style="border: 1px #000000 solid; text-align: right; font-size: 16px; padding-right: 80px; ">
+        @Html.DisplayFor(modelItem => item.Tinhtranggiaohang)
+    </td>
+    <td style="border: 1px #000000 solid; text-align: right; font-size: 16px; padding-right: 80px; ">
+        @Html.DisplayFor(modelItem => item.Ngaydat)
+    </td>
+    <td style="border: 1px #000000 solid; text-align: right; font-size: 16px; padding-right: 80px; ">
+        @*@Html.DisplayFor(modelItem => item.Tongtien)*@
+        @String.Format("{0:0,0}", item.Tongtien)
+    </td>
+</tr>
+    }
+
+</table>
+@*Tạo liên kết các trang*@
+<div class="pagination" style="margin: 5px 10px 10px 450px;">
+    @Html.PagedListPager(Model, page => Url.Action("Dondathang", new { page = page }))
+</div>
+<div style="border: 2px black solid; border-radius: 8px; margin-left: 540px; text-align:center ; width: 90px; padding: 5px;">
+    @Html.ActionLink("TRỞ VỀ", "Index")
+</div>
+<br />

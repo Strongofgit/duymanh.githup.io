@@ -1,0 +1,63 @@
+﻿<style type="text/css">
+    #Datmua a {
+        clear: both;
+        background-color: red;
+        color: white;
+        width: 120px;
+        height: 35px;
+        display: block;
+        float: right;
+        text-align: center;
+        padding-top: 10px;
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+        #Datmua a:hover {
+            background-color: gray;
+            color: red;
+        }
+</style>
+
+@{
+    ViewBag.Title = "Chi Tiết";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+
+    <script type="text/javascript">
+        function clickmua(iMaGiay, ) {
+            var masizelist = document.getElementById("MaSize");
+            var selIndex = masizelist.selectedIndex;
+            var maGiay = '@Model.MaGIAY';
+            var value = masizelist.options[selIndex].value;
+            var current_url = document.URL;
+            location.href = '@Url.Action("ThemGiohang", "Giohang")?iMaGIAY=' + maGiay + '&strURL=' + current_url + '&maSize=' + value;
+            }
+    </script>
+
+    <h1 style="text-align:center; color: darkblue; font-weight:bold; font-size: 25px;">THÔNG TIN CHI TIẾT GIÀY</h1>
+    <br />
+    <hr />
+    <div>
+        <div style="width:40%; float:left; border-left: dotted 1px; border-color:azure; margin-left: 200px;">
+            <img src="~/Hinhsanpham/@Model.Anhbia" width="80%" />
+        </div>
+        <div style="width:60%; float:left; padding:10px; margin-left: 200px; ">
+            <h4 style="font-weight:bold;">Tên giày:  @Model.TenGIAY</h4><br />
+            <p style="font-weight:bold">Giá bán:   <span style="color:red; font-size:16pt">@String.Format("{0:0,0}", Model.Giaban) VNĐ</span></p><br />
+            <p style="text-align:justify"><span style="font-weight:bold">Bảo hành: </span>@Model.Mota</p><br />
+            <p style="font-weight:bold">Chọn Size☻:  @Html.DropDownList("MaSize")</p>
+            <p style="font-weight: bold; color:red; font-size: 20px; margin-left: 140px; margin-top: 10px;"><strong>@TempData["Tag"]</strong></p>
+        </div>
+        <br />
+        <br />
+        <div>
+            <div id="Datmua">
+                <input type="submit" value='Thêm vào giỏ hàng' id="Mua" onclick="clickmua()" class="submit" style="padding: 10px; color:red; font-size: 20px; margin-top: 30px; margin-left: 350px;"/>
+            </div>
+        </div>
+    </div>
+
+
+

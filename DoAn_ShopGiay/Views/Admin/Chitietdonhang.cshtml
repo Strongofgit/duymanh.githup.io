@@ -1,0 +1,57 @@
+﻿@using DoAn_ShopGiay.Models
+@using PagedList.Mvc
+@model PagedList.PagedList<DoAn_ShopGiay.Models.CHITIETDONTHANG>
+
+@{
+    ViewBag.Title = "Chi Tiết Đơn Hàng";
+    Layout = "~/Views/Shared/_layoutAdmin.cshtml";
+}
+<br />
+<h2 style="text-align:center; color: blue; font-weight: bold;  ">Chi Tiết Đơn Hàng</h2>
+<hr />
+<table>
+    <tr>
+        <th style="border: 1px #000000 solid; text-align: center; font-size: 16px; width: 10%; ">
+            Mã Đơn Hàng
+        </th>
+        <th style="border: 1px #000000 solid; text-align: center; font-size: 16px; width: 10%; ">
+            Mã Giày
+        </th>
+        <th style="border: 1px #000000 solid; text-align: center; font-size: 16px; width: 10%; ">
+            Số Lượng
+        </th>
+        <th style="border: 1px #000000 solid; text-align: center; font-size: 16px; width: 10%; ">
+            Đơn giá
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td style="border: 1px #000000 solid; text-align: right; font-size: 16px; padding-right: 90px; ">
+                @Html.DisplayFor(modelItem => item.MaDonHang)
+            </td>
+            <td style="border: 1px #000000 solid; text-align: right; font-size: 16px; padding-right: 90px; ">
+                @Html.DisplayFor(modelItem => item.MaGIAY)
+            </td>
+            <td style="border: 1px #000000 solid; text-align: right; font-size: 16px; padding-right: 90px; ">
+                @Html.DisplayFor(modelItem => item.Soluong)
+            </td>
+            <td style="border: 1px #000000 solid; text-align: right; font-size: 16px; padding-right: 60px; ">
+                @String.Format("{0:0,0}", item.Dongia)
+            </td>
+        </tr>
+    }
+
+</table>
+
+@*Tạo liên kết các trang*@
+<div class="pagination" style="margin: 5px 10px 10px 450px;">
+    @Html.PagedListPager(Model, page => Url.Action("Chitietdonhang", new { page = page }))
+</div>
+<br />
+<div>
+    <div style="text-align:center; padding: 10px; color: blue; font-weight: bold; font-size: 20px;">
+        @Html.ActionLink("Trở Về", "Dondathang")
+    </div>
+</div>

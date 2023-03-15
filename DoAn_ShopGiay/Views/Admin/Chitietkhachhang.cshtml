@@ -1,0 +1,77 @@
+﻿@model DoAn_ShopGiay.Models.KHACHHANG
+
+@{
+    ViewBag.Title = "Chi Tiết Khách Hàng";
+    Layout = "~/Views/Shared/_layoutAdmin.cshtml";
+}
+
+<h3 style="text-align: center; color: blue; font-weight: bold ">THÔNG TIN CHI TIẾT KHÁCH HÀNG</h3>
+<hr />
+<br />
+<br />
+<br />
+
+<div>
+    <dl class="dl-horizontal" style="font-size: 18px; margin-left: 360px; " >
+        <dt>
+            Họ Tên:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HoTen)
+        </dd>
+        <br />
+        <dt>
+            Tài Khoản:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Taikhoan)
+        </dd>
+        <br />
+        <dt>
+            Mật Khẩu:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Matkhau)
+        </dd>
+        <br />
+        <dt>
+            Email:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        <br />
+        <dt>
+            Địa Chỉ:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DiachiKH)
+        </dd>
+        <br />
+        <dt>
+            Điện Thoại:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DienthoaiKH)
+        </dd>
+        <br />
+        <dt>
+            Ngày Sinh:
+        </dt>
+
+        <dd>
+            @String.Format("{0:dd/MM/yyyy}", Model.Ngaysinh)
+        </dd>
+        <br />
+    </dl>
+</div>
+<p style="font-size: 20px; margin-left: 450px;">
+    @Html.ActionLink("Chỉnh sửa", "Suakhachhang", new { id = Model.MaKH })   |  
+    @Html.ActionLink("Trở Về", "Khachhang")
+</p>

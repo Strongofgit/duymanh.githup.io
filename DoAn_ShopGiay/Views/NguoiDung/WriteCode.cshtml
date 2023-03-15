@@ -1,0 +1,49 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Xác thực</title>
+
+    <!-- Font Icon -->
+    <link rel="stylesheet" href="~/Content/material-design-iconic-font.min.css">
+
+    <!-- Main css -->
+    <link rel="stylesheet" href="~/Content/register_login_style.css">
+</head>
+<body>
+    <div class="main" style="text-align:center">
+        <section class="signup">
+            <!-- <img src="images/signup-bg.jpg" alt=""> -->
+            <div class="container">
+                <div class="signup-content">
+                    <form method="POST" id="writecode-form" class="signup-form">
+                        <h2 class="form-title" style="color:blue">Một mã code đã được gửi đến @ViewData["email"]</h2>
+                        <hr />
+                        <div class="form-group" style="line-height:3">
+                            <input type="text" class="form-input" name="code" id="code" placeholder="Nhập code" />
+                            @ViewData["error"]
+                        </div>
+                        <div class="form-group">
+                            <input type="submit" name="submit" id="submit" class="form-submit" value="Xác thực" />
+                        </div>
+                    </form>
+                    <p class="loginhere" style="margin-top: 60px">
+                        <a href="/NguoiDung/Dangnhap" class="loginhere-link">Quay lại trang đăng nhập!</a>
+                    </p>
+                </div>
+            </div>
+        </section>
+    </div>
+    <!-- JS -->
+    <script src="~/Scripts/jquery-3.3.1.min.js"></script>
+    <script src="~/Scripts/register_login.js"></script>
+    <script src="~/Scripts/bootstrap.bundle.min.js"></script>
+</body>
+</html>

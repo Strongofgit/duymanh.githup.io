@@ -1,0 +1,72 @@
+﻿@model DoAn_ShopGiay.Models.GIAY
+
+@{
+    ViewBag.Title = "Chi Tiết Giày";
+    Layout = "~/Views/Shared/_layoutAdmin.cshtml";
+}
+
+<h3 style="text-align: center; color: blue; font-weight: bold ">THÔNG TIN CHI TIẾT GIÀY</h3>
+<hr />
+<div>
+    <dl class="dl-horizontal" style="font-size: 18px; margin-left: 280px;">
+        <dt>
+            Tên Giày: 
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.TenGIAY)
+        </dd>
+        <br />
+        <dt>
+            Giá Bán: 
+        </dt>
+
+        <dd>
+            @String.Format("{0:0,0}", Model.Giaban) VNĐ
+        </dd>
+        <br />
+        <dt>
+            Bảo Hành: 
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Mota)
+        </dd>
+        <br />
+        <dt>
+            Hình Ảnh: 
+        </dt>
+
+        <dd>
+            <img src="@Url.Content("~/Hinhsanpham/"+ Model.Anhbia)" width="120px" />
+        </dd>
+        <br />
+        <dt>
+            Ngày Cập Nhật: 
+        </dt>
+
+        <dd>
+            @String.Format("{0:dd/MM/yyyy}", Model.Ngaycapnhat)
+        </dd>
+        <br />
+        <dt>
+            Loại Giày: 
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LOAI.TenLOAI)
+        </dd>
+        <br />
+        <dt>
+            Hãng Sản Xuất: 
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HANG.TenHANG)
+        </dd>
+        <br />
+    </dl>
+</div>
+<p style="font-size: 18px; margin-left: 450px;">
+    @Html.ActionLink("Chỉnh sửa", "Suagiay", new { id = Model.MaGIAY }) |
+    @Html.ActionLink("Trở Về", "Giay")
+ </p>

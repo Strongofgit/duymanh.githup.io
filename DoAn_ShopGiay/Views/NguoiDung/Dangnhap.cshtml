@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewBag.Title = "Đăng Nhập";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+
+<h4 style="color:red; text-align:center">@ViewBag.Thongbao</h4>
+<h2 style="text-align:center; font-size: 20px; font-weight: bold; color: blue">ĐĂNG NHẬP</h2>
+<hr />
+<table textalign="center;" style="margin-left: 260px; ">
+
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary(true)
+        <tr style=" height:40px ">
+            <td style="text-align: right;">Tên đăng nhập:  </td>
+            <td>
+                @Html.TextBox("TenDN")
+                @ViewData["Loi1"]
+            </td>
+        </tr>
+        <tr style=" height:40px">
+            <td style="text-align:right">Mật khẩu:  </td>
+            <td>
+                @Html.Password("MatKhau")
+                @ViewData["Loi2"]
+            </td>
+        </tr>
+        <tr style=" height:40px">
+            <td></td>
+            <td>
+                <input type="submit" value="Đăng Nhập" />
+            </td>
+            <td>
+                <p class="loginhere" style="margin-top: 20px">
+                    <a href="/NguoiDung/ForgotPassword" class="loginhere-link">Quên mật khẩu?</a>
+                </p>
+            </td>
+        </tr>
+    }
+</table>
+

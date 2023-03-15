@@ -1,0 +1,102 @@
+﻿@using DoAn_ShopGiay.Models
+@using PagedList.Mvc
+@model PagedList.PagedList<DoAn_ShopGiay.Models.KHACHHANG>
+
+
+@helper Truncate(string input, int length)
+{
+    if (input.Length < length)
+    {
+        @input
+    }
+    else
+    {
+        @input.Substring(0, length)<text>...</text>
+    }
+}
+@{
+    ViewBag.Title = "Quản Lý Khách Hàng";
+    Layout = "~/Views/Shared/_layoutAdmin.cshtml";
+}
+
+<h2 style="text-align:center; color: blue; font-weight: bold; ">Quản Lý Khách Hàng</h2>
+
+<table>
+    <tr>
+        <th style="border: 1px #000000 solid; text-align: center; font-size: 16px; width: 3%; ">
+            Mã KH
+        </th>
+        <th style="border: 1px #000000 solid; text-align: center; font-size: 16px; width: 11%; ">
+            Tên KH
+        </th>
+        <th style="border: 1px #000000 solid; text-align: center; font-size: 16px; width: 9%;">
+            Tài Khoản
+        </th>
+        <th style="border: 1px #000000 solid; text-align: center; font-size: 16px; width: 9%; ">
+            Mật Khẩu
+        </th>
+        <th style="border: 1px #000000 solid; text-align: center; font-size: 16px; width: 17%; ">
+            Email
+        </th>
+        <th style="border: 1px #000000 solid; text-align: center; font-size: 16px; width: 17%; ">
+            Địa chỉ
+        </th>
+        <th style="border: 1px #000000 solid; text-align: center; font-size: 16px; width: 9%; ">
+            Điện Thoại
+        </th>
+        <th style="border: 1px #000000 solid; text-align: center; font-size: 16px; width: 9%; ">
+            Ngày Sinh
+        </th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 13px; padding: 7px ">
+                @Html.DisplayFor(modelItem => item.MaKH)
+            </td>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 13px">
+                @Html.DisplayFor(modelItem => item.HoTen)
+            </td>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 13px ">
+                @Html.DisplayFor(modelItem => item.Taikhoan)
+            </td>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 13px ">
+                @Html.DisplayFor(modelItem => item.Matkhau)
+            </td>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 13px ">
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 13px ">
+                @Truncate(item.DiachiKH, 50)
+            </td>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 13px ">
+                @Html.DisplayFor(modelItem => item.DienthoaiKH)
+            </td>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 13px ">
+            @String.Format("{0:dd/MM/yyyy}", item.Ngaysinh)
+            </td>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 15px ">
+                @Html.ActionLink(" Sửa ", "Suakhachhang", new { id = item.MaKH })
+            </td>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 15px ">
+                @Html.ActionLink("Chi tiết", "Chitietkhachhang", new { id = item.MaKH })
+            </td>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 15px ">
+                @Html.ActionLink(" Xóa ", "Xoakhachhang", new { id = item.MaKH })
+            </td>
+        </tr>
+    }
+
+</table>
+@*Tạo liên kết các trang*@
+<div class="pagination" style="margin: 5px 10px 10px 350px; text-align:center">
+    @Html.PagedListPager(Model, page => Url.Action("Khachhang", new { page = page }))
+</div>
+<div style="border: 2px black solid; border-radius: 8px; margin-left: 540px; text-align:center ; width: 90px; padding: 5px;">
+    @Html.ActionLink("TRỞ VỀ", "Index")
+</div>
+<br />

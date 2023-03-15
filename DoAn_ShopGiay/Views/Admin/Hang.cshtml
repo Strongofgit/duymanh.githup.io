@@ -1,0 +1,60 @@
+﻿@model IEnumerable<DoAn_ShopGiay.Models.HANG>
+
+@{
+    ViewBag.Title = "Quản Lý Hãng";
+    Layout = "~/Views/Shared/_layoutAdmin.cshtml";
+}
+
+<h2 style="text-align:center; color: blue; font-weight: bold; ">Quản Lý Hãng</h2>
+<hr />
+
+<table class="table" style="margin-left: 80px; width: 1100px;">
+    <tr>
+        <th style="border: 1px #000000 solid; text-align: center; font-size: 16px; width: 10%; ">
+            Mã Hãng
+        </th>
+        <th style="border: 1px #000000 solid; text-align: center; font-size: 16px; width: 30%; ">
+            Tên Hãng
+        </th>
+        <th style="border: 1px #000000 solid; text-align: center; font-size: 16px; width: 40%; ">
+            Địa Chỉ
+        </th>
+        <th style="border: 1px #000000 solid; text-align: center; font-size: 16px; width: 10%; ">
+            Điện Thoại
+        </th>
+        <th></th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 15px; ">
+                @Html.DisplayFor(modelItem => item.MaHANG)
+            </td>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 15px; ">
+                @Html.DisplayFor(modelItem => item.TenHANG)
+            </td>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 15px; ">
+                @Html.DisplayFor(modelItem => item.Diachi)
+            </td>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 15px; ">
+                @Html.DisplayFor(modelItem => item.DienThoai)
+            </td>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 15px; ">
+                @Html.ActionLink("Sửa", "Suahang", new { id = item.MaHANG })
+            </td>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 15px; ">
+                @Html.ActionLink("Xóa", "Xoahang", new { id = item.MaHANG })
+            </td>
+        </tr>
+    }
+
+</table>
+<hr />
+<p style="border: 2px black solid; border-radius: 8px; margin-left: 540px; text-align:center ; width: 90px; padding: 5px;">
+    @Html.ActionLink("Thêm Mới", "ThemmoiHang")
+</p>
+<div style="border: 2px black solid; border-radius: 8px; margin-left: 540px; text-align:center ; width: 90px; padding: 5px;">
+    @Html.ActionLink("TRỞ VỀ", "Index")
+</div>

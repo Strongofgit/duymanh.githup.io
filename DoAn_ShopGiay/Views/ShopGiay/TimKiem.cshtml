@@ -1,0 +1,37 @@
+﻿
+@using DoAn_ShopGiay.Models
+@using PagedList.Mvc
+@model PagedList.PagedList<GIAY>
+@{
+    ViewBag.Title = "Tìm Kiếm";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+<hr />
+<div style="text-align:center; font-weight: bold; font-size: 18px; color: red">@ViewBag.ThongBao</div>
+<hr />
+<div style="text-align:center; font-weight: bold; font-size: 18px; ">@ViewBag.ThongBao2</div>
+<div class="cnt-main btm">
+    <div class="section group">
+        @foreach (var giay in Model)
+        {
+            <a href="@Url.Action("Details","ShopGiay", new { id = giay.MaGIAY})">
+                <div class="grid_1_of_3 images_1_of_3">
+                    <a href="@Url.Action("Details","ShopGiay", new { id = giay.MaGIAY})"><img src="~/Hinhsanpham/@giay.Anhbia" alt="@giay.TenGIAY" /></a>
+                    <a href="@Url.Action("Details","ShopGiay", new { id = giay.MaGIAY})"><h3 style="color: black; ">@giay.TenGIAY</h3></a>
+                    <div class="cart-b">
+                        <span class="price left" style="color: orangered; font-weight: bold;"><sup>@String.Format("{0:0,0}", giay.Giaban) VNĐ</sup><sub></sub></span>
+                        <div class="btn top-right right"><a href="@Url.Action("ThemGiohang","GioHang", new { id = giay.MaGIAY})">Mua Hàng</a></div>
+                        <div class="clear"></div>
+                    </div>
+                </div>
+            </a>
+        }
+    </div>
+</div>
+<br />
+@*Tạo liên kết các trang*@
+<div class="pagination">
+    @Html.PagedListPager(Model, page => Url.Action("TimKiem", new { page = page, @tukhoa = ViewBag.TuKhoa}))
+</div>
+<br />
+

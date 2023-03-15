@@ -1,0 +1,83 @@
+﻿@model DoAn_ShopGiay.Models.KHACHHANG
+
+@{
+    ViewBag.Title = "Xóa Khách Hàng";
+    Layout = "~/Views/Shared/_layoutAdmin.cshtml";
+}
+
+<h3 style="text-align: center; font-weight: bold; color: blue">XÁC NHẬN THÔNG TIN GIÀY CẦN XÓA</h3>
+<hr />
+<h3 style="color:red; text-align:center; ">Bạn có chắc chắn muốn xóa Khách hàng này ?</h3>
+<br />
+<div>
+    <dl class="dl-horizontal" style="font-size: 18px; margin-left: 280px;">
+        <dt>
+            Tên Khách Hàng: 
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.HoTen)
+        </dd>
+        <br />
+
+        <dt>
+            Tài Khoản: 
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Taikhoan)
+        </dd>
+        <br />
+
+        <dt>
+            Mật Khẩu: 
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Matkhau)
+        </dd>
+        <br />
+
+        <dt>
+            Email: 
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        <br />
+
+        <dt>
+            Địa Chỉ: 
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.DiachiKH)
+        </dd>
+        <br />
+
+        <dt>
+            Điện Thoại: 
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.DienthoaiKH)
+        </dd>
+        <br />
+
+        <dt>
+            Ngày Sinh: 
+        </dt>
+        <dd>
+            @String.Format("{0:dd/MM/yyyy}", Model.Ngaysinh)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color" style="font-size: 25px; margin-left: 545px;">
+            <input style="font-size: 17px;" type="submit" value="Xóa" class="btn btn-default" />
+        </div>
+        <br />
+        <div class="form-actions no-color" style="font-size: 18px; margin-left: 540px;">
+            @Html.ActionLink("TRỞ VỀ", "Khachhang")
+        </div>
+    }
+</div>

@@ -1,0 +1,48 @@
+﻿@model IEnumerable<DoAn_ShopGiay.Models.LOAI>
+
+@{
+    ViewBag.Title = "Quản Lý Loại";
+    Layout = "~/Views/Shared/_layoutAdmin.cshtml";
+}
+
+<h2 style="text-align:center; color: blue; font-weight: bold; ">Quản Lý Loại</h2>
+<hr />
+
+<table class="table" style="margin-left: 380px; width: 500px">
+    <tr>
+        <th style="border: 1px #000000 solid; text-align: center; font-size: 16px; width: 20%; ">
+            Mã Loại
+        </th>
+        <th style="border: 1px #000000 solid; text-align: center; font-size: 16px; width: 60%; ">
+            Tên Loại
+        </th>
+        <th></th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 15px; ">
+                @Html.DisplayFor(modelItem => item.MaLOAI)
+            </td>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 15px; ">
+                @Html.DisplayFor(modelItem => item.TenLOAI)
+            </td>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 15px; ">
+                @Html.ActionLink("Sửa", "Sualoai", new { id = item.MaLOAI })
+            </td>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 15px; ">
+                @Html.ActionLink("Xóa", "Xoaloai", new { id = item.MaLOAI })
+            </td>
+        </tr>
+    }
+
+</table>
+<hr />
+<p style="border: 2px black solid; border-radius: 8px; margin-left: 540px; text-align:center ; width: 90px; padding: 5px;">
+    @Html.ActionLink("Thêm Mới", "ThemmoiLoai")
+</p>
+<div style="border: 2px black solid; border-radius: 8px; margin-left: 540px; text-align:center ; width: 90px; padding: 5px;">
+    @Html.ActionLink("TRỞ VỀ", "Index")
+</div>

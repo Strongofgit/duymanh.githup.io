@@ -1,0 +1,59 @@
+﻿@using DoAn_ShopGiay.Models
+@using PagedList.Mvc
+@model PagedList.PagedList<DoAn_ShopGiay.Models.CHITIETGIAY>
+
+@{
+    ViewBag.Title = "Quản Lý Số Lượng Giày";
+    Layout = "~/Views/Shared/_layoutAdmin.cshtml";
+}
+
+<h2 style="text-align:center; color: blue; font-weight: bold;  ">Quản Lý Số Lượng Giày</h2>
+
+<p style="margin-left: 200px; ">
+    @Html.ActionLink("Thêm mới", "ThemmoiSLGiay")
+</p>
+
+<table style="margin-left: 200px; ">
+    <tr>
+        <th style="border: 1px #000000 solid; text-align:center; font-size: 16px; width: 15%; ">
+            Mã Giày
+        </th>
+        <th style="border: 1px #000000 solid; text-align: center; font-size: 16px; width: 15%;">
+            Mã Size
+        </th>
+        <th style="border: 1px #000000 solid; text-align: center; font-size: 16px; width: 15%; ">
+            Số Lượng Tồn
+        </th>
+        <th style="width: 10%"></th>
+        <th style="width: 10%"></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 13px ">
+                @Html.DisplayFor(modelItem => item.MaGIAY)
+            </td>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 13px ">
+                @Html.DisplayFor(modelItem => item.MaSize)
+            </td>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 13px ">
+                @Html.DisplayFor(modelItem => item.SoLuongTon)
+            </td>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 15px ">
+                @Html.ActionLink("Sửa", "SuaSLGiay", new { id = item.MaGIAY})
+            </td>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 15px ">
+                @Html.ActionLink("Xóa", "XoaSLGiay", new { id = item.MaGIAY})
+            </td>
+        </tr>
+    }
+
+</table>
+@*Tạo liên kết các trang*@
+<div class="pagination" style="margin: 5px 10px 10px 400px;">
+    @Html.PagedListPager(Model, page => Url.Action("NhapSLGiay", new { page = page }))
+</div>
+<div style="border: 2px black solid; border-radius: 8px; margin-left: 540px; text-align:center ; width: 90px; padding: 5px;">
+    @Html.ActionLink("TRỞ VỀ", "Giay")
+</div>

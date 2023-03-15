@@ -1,0 +1,36 @@
+﻿@model DoAn_ShopGiay.Models.LOAI
+
+@{
+    ViewBag.Title = "Xóa Loại Giày";
+    Layout = "~/Views/Shared/_layoutAdmin.cshtml";
+}
+
+<h3 style="text-align: center; font-weight: bold; color: blue">XÁC NHẬN THÔNG TIN LOẠI CẦN XÓA</h3>
+<hr />
+<h3 style="color:red; text-align:center; ">Bạn có chắc chắn muốn xóa loại này ?</h3>
+<br />
+<h3 style="color:red; text-align:center; font-size: 25px; font-weight: bold; ">Tất cả giày thuộc loại này cũng sẽ bị xóa</h3>
+<br />
+<br />
+<div>
+    <dl class="dl-horizontal" style="font-size: 18px; margin-left: 280px;">
+        <dt>
+            Tên Loại: 
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.TenLOAI)
+        </dd>
+        <br />
+
+    </dl>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+<div class="form-actions no-color" style="font-size: 18px; margin-left: 450px;">
+    <input type="submit" value="Xóa" class="btn btn-default" />   |    
+    @Html.ActionLink("TRỞ VỀ", "Loai") 
+
+</div>
+    }
+</div>

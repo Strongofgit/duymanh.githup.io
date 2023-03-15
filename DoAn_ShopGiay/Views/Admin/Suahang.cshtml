@@ -1,0 +1,51 @@
+﻿@model DoAn_ShopGiay.Models.HANG
+
+@{
+    ViewBag.Title = "Sửa Hãng Giày";
+    Layout = "~/Views/Shared/_layoutAdmin.cshtml";
+}
+
+<h3 style="text-align: center; font-weight: bold; color: blue">ĐIỀU CHỈNH THÔNG TIN HÃNG</h3>
+<hr />
+<br />
+<br />
+<br />
+@using (Html.BeginForm("Suahang", "Admin", FormMethod.Post, new { }))
+{
+                @Html.AntiForgeryToken()
+
+<div class="form-horizontal" style="margin-left: 300px;">
+    <div class="form-group" style="width: 500px">
+        <div style="text-align: right; width: 150px; ">Tên Hãng: </div><br />
+        <div class="col-md-10" style="margin-left: 150px; margin-top: -45px;">
+            @Html.EditorFor(model => model.TenHANG, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.TenHANG, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group" style="width: 500px">
+        <div style="text-align: right; width: 150px; ">Địa chỉ: </div><br />
+        <div class="col-md-10" style="margin-left: 150px; margin-top: -45px;">
+            @Html.EditorFor(model => model.Diachi, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Diachi, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group" style="width: 500px">
+        <div style="text-align: right; width: 150px; ">Điện thoại: </div><br />
+        <div class="col-md-10" style="margin-left: 150px; margin-top: -45px;">
+            @Html.EditorFor(model => model.DienThoai, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.DienThoai, "", new { @class = "text-danger" })
+        </div>
+    </div>
+</div>
+    <div class="form-actions no-color" style="font-size: 18px; margin-left: 430px;">
+        <input type="submit" value="Lưu" class="btn btn-default" />
+    </div>
+    <br />
+    <div class="form-actions no-color" style="font-size: 18px; margin-left: 430px;">
+        @Html.ActionLink("TRỞ VỀ", "Hang")
+    </div>
+    <br />
+    <br />
+}
+
+

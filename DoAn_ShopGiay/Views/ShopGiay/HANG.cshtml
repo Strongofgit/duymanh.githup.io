@@ -1,0 +1,6 @@
+﻿
+@model IEnumerable<DoAn_ShopGiay.Models.HANG>
+@foreach (var hang in Model)
+{
+    <li><a href="@Url.Action("SPTheoHANG","ShopGiay", new { id = hang.MaHANG})">@hang.TenHANG</a></li>
+}

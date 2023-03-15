@@ -1,0 +1,116 @@
+﻿@using DoAn_ShopGiay.Models
+@using PagedList.Mvc
+@model PagedList.PagedList<DoAn_ShopGiay.Models.GIAY>
+
+
+@helper Truncate(string input, int length)
+{
+    if (input.Length < length)
+    {
+        @input
+    }
+    else
+    {
+        @input.Substring(0, length)<text>...</text>
+    }
+}
+
+
+
+@{
+    ViewBag.Title = "Quản Lý Giày";
+    Layout = "~/Views/Shared/_layoutAdmin.cshtml";
+}
+
+<h2 style="text-align:center; color: blue; font-weight: bold;  ">Quản Lý Giày</h2>
+
+<div style="display: inline-flex; padding: 10px; font-weight: bold; font-size: 17px;">
+    <div style="margin-right: 30px;">
+        @Html.ActionLink("Thêm Mới", "ThemmoiGiay")
+    </div>
+    <div style="margin-right: 30px;">
+        @Html.ActionLink("Quản lý Size", "Size", "Admin")
+    </div>
+    <div style="margin-right: 30px;">
+        @Html.ActionLink("Quản lý Số Lượng Giày", "NhapSLGiay", "Admin")
+    </div>
+</div>
+
+<table>
+    <tr>
+        <th style="border: 1px #000000 solid; text-align:center; font-size: 16px; width: 4%; ">
+            Mã Giày
+        </th>
+        <th style="border: 1px #000000 solid; text-align:center; font-size: 16px; width: 15%;">
+            Tên Giày
+        </th>
+        <th style="border: 1px #000000 solid; text-align: center; font-size: 16px; width: 8%; ">
+            Đơn Giá
+        </th>
+        <th style="border: 1px #000000 solid; text-align: center; font-size: 16px; width: 14%; ">
+            Bảo Hành
+        </th>
+        <th style="border: 1px #000000 solid; text-align: center; font-size: 16px; width: 8%; ">
+            Hình Ảnh
+        </th>
+        <th style="border: 1px #000000 solid; text-align: center; font-size: 16px; width: 10%; ">
+            Ngày Cập Nhật
+        </th>
+        <th style="border: 1px #000000 solid; text-align: center; font-size: 16px; width: 10%; ">
+            Loại
+        </th>
+        <th style="border: 1px #000000 solid; text-align: center; font-size: 16px; width: 10%; ">
+            Hãng
+        </th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 13px ">
+                @Html.DisplayFor(modelItem => item.MaGIAY)
+            </td>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 13px; padding-left: 10px; padding-right: 10px; ">
+                @Truncate(item.TenGIAY, 50)
+            </td>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 13px ">
+                @String.Format("{0:0,0}", item.Giaban)
+            </td>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 13px; padding-left: 10px; padding-right: 10px; ">
+                @Truncate(item.Mota, 50)
+            </td>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 13px ">
+                <img src="@Url.Content("~/Hinhsanpham/"+ item.Anhbia)" style="width:110px; height:90px;" />
+            </td>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 13px ">
+                @Html.DisplayFor(modelItem => item.Ngaycapnhat)
+            </td>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 13px ">
+                @Html.DisplayFor(modelItem => item.LOAI.TenLOAI)
+            </td>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 13px ">
+                @Html.DisplayFor(modelItem => item.HANG.TenHANG)
+            </td>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 15px ">
+                @Html.ActionLink("  Sửa  ", "Suagiay", new { id = item.MaGIAY })
+            </td>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 15px ">
+                @Html.ActionLink("Chi tiết", "Chitietgiay", new { id = item.MaGIAY })
+            </td>
+            <td style="border: 1px #000000 solid; text-align: center; font-size: 15px ">
+                @Html.ActionLink("  Xóa  ", "Xoagiay", new { id = item.MaGIAY })
+            </td>
+        </tr>
+    }
+</table>
+@*Tạo liên kết các trang*@
+<div class="pagination" style="margin: 5px 10px 10px 350px; text-align:center">
+     @Html.PagedListPager(Model, page => Url.Action("Giay", new { page = page }))
+</div>
+<div style="border: 2px black solid; border-radius: 8px; margin-left: 540px; text-align:center ; width: 90px; padding: 5px;">
+    @Html.ActionLink("TRỞ VỀ", "Index")
+</div>
+<br />

@@ -1,0 +1,81 @@
+﻿@model DoAn_ShopGiay.Models.GIAY
+
+@{
+    ViewBag.Title = "Xóa Giày";
+    Layout = "~/Views/Shared/_layoutAdmin.cshtml";
+}
+
+<h3 style="text-align: center; font-weight: bold; color: blue">XÁC NHẬN THÔNG TIN GIÀY CẦN XÓA</h3>
+<hr />
+<h3 style="color:red; text-align:center; ">Bạn có chắc chắn muốn xóa giày này ?</h3>
+<h3 style="color:red; text-align:center; font-size: 25px; font-weight: bold; ">Tất cả thông tin về số lượng tồn kho cũng sẽ bị xóa! </h3>
+<br />
+<div>
+    <dl class="dl-horizontal" style="font-size: 18px; margin-left: 280px;">
+        <dt>
+            Tên Giày: 
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.TenGIAY)
+        </dd>
+        <br />
+        <dt>
+            Giá Bán: 
+        </dt>
+
+        <dd>
+            @String.Format("{0:0,0}", Model.Giaban) VNĐ
+        </dd>
+        <br />
+        <dt>
+            Bảo Hành: 
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Mota)
+        </dd>
+        <br />
+        <dt>
+            Hình Ảnh: 
+        </dt>
+
+        <dd>
+            <img src="@Url.Content("~/Hinhsanpham/"+ Model.Anhbia)" width="120px" />
+        </dd>
+        <br />
+        <dt>
+            Ngày Cập Nhật: 
+        </dt>
+
+        <dd>
+            @String.Format("{0:dd/MM/yyyy}", Model.Ngaycapnhat)
+        </dd>
+        <br />
+        <dt>
+            Loại Giày: 
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LOAI.TenLOAI)
+        </dd>
+        <br />
+        <dt>
+            Hãng Sản Xuất: 
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HANG.TenHANG)
+        </dd>
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+<div class="form-actions no-color" style="font-size: 18px; margin-left: 450px;">
+    <input type="submit" value="Xóa" class="btn btn-default" />  |   
+    @Html.ActionLink("TRỞ VỀ", "Giay")   
+
+</div>
+    }
+</div>

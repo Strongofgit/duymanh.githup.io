@@ -1,0 +1,60 @@
+﻿@model DoAn_ShopGiay.Models.CHITIETGIAY
+
+@{
+    ViewBag.Title = "Sửa Số Lượng Giày";
+    Layout = "~/Views/Shared/_layoutAdmin.cshtml";
+}
+
+<h3 style="text-align: center; font-weight: bold; color: blue">ĐIỀU CHỈNH SỐ LƯỢNG GIÀY</h3>
+<hr />
+<br />
+<br />
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal" style="margin-left: 300px;">
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.MaSize)
+
+        @Html.HiddenFor(model => model.MaGIAY)
+
+
+        <div class="form-group" style="width: 500px">
+            <div style="text-align: right; width: 150px; ">Mã Giày: </div><br />
+            <div class="col-md-10" style="margin-left: 150px; margin-top: -45px;">
+                <div style="font-size: 18px; padding: 5px 0 0 5px"> @Model.MaGIAY </div>
+            </div>
+        </div>
+        <div class="form-group" style="width: 500px">
+            <div style="text-align: right; width: 150px; ">Mã Size: </div><br />
+            <div class="col-md-10" style="margin-left: 150px; margin-top: -45px;">
+                <div style="font-size: 18px; padding: 5px 0 0 5px"> @Model.MaSize </div>
+            </div>
+        </div>
+        <div class="form-group" style="width: 500px">
+            <div style="text-align: right; width: 150px; ">Số Lượng Tồn:   </div><br />
+            <div class="col-md-10" style="margin-left: 150px; margin-top: -45px;">
+                @Html.EditorFor(model => model.SoLuongTon, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.SoLuongTon, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Lưu" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="form-actions no-color" style="font-size: 18px; margin-left: 530px;">
+        @Html.ActionLink("TRỞ VỀ", "NhapSLGiay")
+    </div>
+    <br />
+    <br />
+}
